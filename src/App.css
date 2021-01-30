@@ -50,23 +50,21 @@ select {
   margin: 0 .5em;
 }
 
+.pagination input {
+  width: 30px;
+}
+
 svg circle:hover {
   cursor: crosshair;
 }
 
 svg path {
-  stroke: white;
+  stroke: rgba(51, 51, 51, 1);
   stroke-width: 0.2;
 }
 
-svg circle.destination {
-  stroke: red;
-  stroke-width: .3;
-  fill: transparent;
-  r: 0.8;
-}
-
-svg circle.source {
-  fill: lightgreen;
-  r: 0.5;
+svg circle.airport {
+  stroke: rgba(238, 238, 238, 1);
+  stroke-width: .2;
+  fill: rgba(51, 51, 51, 0.1);
 }
