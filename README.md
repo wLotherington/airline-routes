@@ -1,7 +1,7 @@
 # Airline Routes
 
 * **Try it out:** [http://airline-routes-wlotherington.herokuapp.com](http://airline-routes-wlotherington.herokuapp.com)
-* **Stack:** 'React'
+* **Stack:** `React`
 * **Feedback:** [Will.Lotherington@hey.com](Will.Lotherington@hey.com)
 
 ### What is it?
